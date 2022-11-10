@@ -11,7 +11,9 @@ We’ll start by looking at some examples of real-world entities with variable a
 
 ## Blog Posts
 [Part 1:Versioned Records Overview](https://spin.atomicobject.com/2021/03/31/versioned-records-overview/)
+
 [Part 2: Looking up Variable Attributes](https://spin.atomicobject.com/2021/04/01/variable-attributes-look-up/)
+
 [Part 3: How to Present Versioned Record Overlaps](https://spin.atomicobject.com/2021/04/02/versioned-records-prevent-overlaps)
 
 ## Slides
