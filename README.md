@@ -1,6 +1,6 @@
 # Representing and Accessing Data That Changes Over Time
 
-Thanks to everyone who attended this session!
+Thanks to everyone who attended this session!  
 Resources are below:
 
 ## Description
