@@ -15,3 +15,4 @@ We’ll start by looking at some examples of real-world entities with variable a
 [Part 3: How to Present Versioned Record Overlaps](https://spin.atomicobject.com/2021/04/02/versioned-records-prevent-overlaps)
 
 ## Slides
+[Slides are here](https://github.com/lydiacupery/TechBash2020-Data-with-Attributes-Changing-Overtime/blob/main/Representing%20and%20Accessing%20Data%20That%20Changes%20Over%20Time_Tech%20Bash%202022.pdf)
