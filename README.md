@@ -1,6 +1,7 @@
 # Representing and Accessing Data That Changes Over Time
 
-Thanks to everyone who attended this session.  Info Below:
+Thanks to everyone who attended this session!
+Resources are below:
 
 ## Description
 This talk answers the question “What’s a clean way to represent data that changes over time?” How could one best model a loan with a variable interest rate? The fluctuating price of one's favorite cereal?
